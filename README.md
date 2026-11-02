@@ -27,6 +27,13 @@ A persistent simulator of societies, populations and individuals. Families, econ
 
 C# and .NET most of all, plus TypeScript, Python and some Go. Azure, Docker and Kubernetes. PostgreSQL, SQL Server, SQLite and Redis. React and Angular on the front end.
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="Contributions, commits, pull requests, repositories and most used languages, refreshed daily." src="assets/stats-light.svg" width="100%">
+</picture>
+
 ### Reach me
 
 [LinkedIn](https://linkedin.com/in/alan-e-b74831134) · [Instagram](https://instagram.com/_themussa)
