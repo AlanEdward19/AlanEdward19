@@ -15,13 +15,8 @@ An open-source, self-hosted context layer that turns repos, trackers, docs and c
 **[Living World](https://github.com/AlanEdward19/LivingWorld)**: a world that keeps going without a player.
 A persistent simulator of societies, populations and individuals. Families, economy, births, deaths and skills are all resolved by a deterministic engine: same seed plus same ticks gives the same world. An LLM only comes in later, to interpret and talk, never as the source of truth. The first milestone is 100 NPCs in a medieval village for 100 years, with no LLM at all. .NET 10, C#, SQLite.
 
-### Earlier work
-
-- [ShapeUp](https://github.com/AlanEdward19/ShapeUp): a social network for people who train, connecting them to personal trainers and nutritionists. Microservices in .NET.
-- [CFKA.Health.Train](https://github.com/AlanEdward19/CFKA.Health.Train): a microservice for building strength-training plans.
-- [InfoBasics](https://github.com/AlanEdward19/InfoBasics): a .NET 8 API for tracking and projecting expenses and investments.
-- [rpg-sheet-generator](https://github.com/AlanEdward19/rpg-sheet-generator): microservices for running D&D tables.
-- [CKFA-Docs](https://github.com/AlanEdward19/CKFA-Docs): my notebook of things I learned the hard way.
+**ShapeUp**: a social network for people who train.
+It connects people to personal trainers and nutritionists, with workout and nutrition tracking and a marketplace for professional services. I'm now building v2, with a web app and a mobile app.
 
 ### Day to day
 
