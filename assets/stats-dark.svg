@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="2954 contributions in the last year, 49 public repositories, 42 stars.">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; }
+  .p { fill: #d2a8ff; } .k { fill: #7d8590; } .v { fill: #e6edf3; } .s { fill: #7d8590; font-size: 11px; }
+  .bar { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .6s ease-out forwards; }
+  @keyframes grow { to { transform: scaleY(1); } }
+  @media (prefers-reduced-motion: reduce) { .bar { animation: none; transform: none; } }
+</style>
+<rect x="0.5" y="0.5" width="879" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="34" y="40" class="p">$ living-world stats --npc alan</text>
+<text x="34" y="66" class="k">contributions</text><text x="160" y="66" class="v">2,954</text>
+<text x="215" y="66" class="s">last 12 months</text>
+<text x="34" y="86" class="k">commits</text><text x="160" y="86" class="v">2,668</text>
+<text x="34" y="106" class="k">pull requests</text><text x="160" y="106" class="v">161</text>
+<text x="34" y="126" class="k">public repos</text><text x="160" y="126" class="v">49</text>
+<text x="188" y="126" class="s">42 stars</text>
+<rect class="bar" style="animation-delay:0.000s" x="470.0" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.012s" x="477.2" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.024s" x="484.5" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.036s" x="491.7" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.048s" x="498.9" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.060s" x="506.2" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.072s" x="513.4" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.084s" x="520.6" y="104.1" width="5.2" height="3.9" rx="1" fill="#7ee787" opacity="0.48"/>
+<rect class="bar" style="animation-delay:0.096s" x="527.8" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.108s" x="535.1" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.120s" x="542.3" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.132s" x="549.5" y="105.9" width="5.2" height="2.1" rx="1" fill="#7ee787" opacity="0.47"/>
+<rect class="bar" style="animation-delay:0.144s" x="556.8" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.156s" x="564.0" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.168s" x="571.2" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.180s" x="578.5" y="104.8" width="5.2" height="3.2" rx="1" fill="#7ee787" opacity="0.47"/>
+<rect class="bar" style="animation-delay:0.192s" x="585.7" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.204s" x="592.9" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.216s" x="600.2" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.228s" x="607.4" y="96.6" width="5.2" height="11.4" rx="1" fill="#7ee787" opacity="0.53"/>
+<rect class="bar" style="animation-delay:0.240s" x="614.6" y="99.9" width="5.2" height="8.1" rx="1" fill="#7ee787" opacity="0.51"/>
+<rect class="bar" style="animation-delay:0.252s" x="621.8" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.264s" x="629.1" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.276s" x="636.3" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.288s" x="643.5" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.300s" x="650.8" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.312s" x="658.0" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.46"/>
+<rect class="bar" style="animation-delay:0.324s" x="665.2" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.336s" x="672.5" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.348s" x="679.7" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.360s" x="686.9" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
+<rect class="bar" style="animation-delay:0.372s" x="694.2" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.384s" x="701.4" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.396s" x="708.6" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.408s" x="715.8" y="107.0" width="5.2" height="1.0" rx="1" fill="#7ee787" opacity="0.25"/>
+<rect class="bar" style="animation-delay:0.420s" x="723.1" y="97.4" width="5.2" height="10.6" rx="1" fill="#7ee787" opacity="0.53"/>
+<rect class="bar" style="animation-delay:0.432s" x="730.3" y="104.2" width="5.2" height="3.8" rx="1" fill="#7ee787" opacity="0.48"/>
+<rect class="bar" style="animation-delay:0.444s" x="737.5" y="89.3" width="5.2" height="18.7" rx="1" fill="#7ee787" opacity="0.59"/>
+<rect class="bar" style="animation-delay:0.456s" x="744.8" y="94.0" width="5.2" height="14.0" rx="1" fill="#7ee787" opacity="0.55"/>
+<rect class="bar" style="animation-delay:0.468s" x="752.0" y="103.6" width="5.2" height="4.4" rx="1" fill="#7ee787" opacity="0.48"/>
+<rect class="bar" style="animation-delay:0.480s" x="759.2" y="100.5" width="5.2" height="7.5" rx="1" fill="#7ee787" opacity="0.51"/>
+<rect class="bar" style="animation-delay:0.492s" x="766.5" y="76.3" width="5.2" height="31.7" rx="1" fill="#7ee787" opacity="0.69"/>
+<rect class="bar" style="animation-delay:0.504s" x="773.7" y="104.4" width="5.2" height="3.6" rx="1" fill="#7ee787" opacity="0.48"/>
+<rect class="bar" style="animation-delay:0.516s" x="780.9" y="88.0" width="5.2" height="20.0" rx="1" fill="#7ee787" opacity="0.60"/>
+<rect class="bar" style="animation-delay:0.528s" x="788.2" y="97.9" width="5.2" height="10.1" rx="1" fill="#7ee787" opacity="0.52"/>
+<rect class="bar" style="animation-delay:0.540s" x="795.4" y="105.2" width="5.2" height="2.8" rx="1" fill="#7ee787" opacity="0.47"/>
+<rect class="bar" style="animation-delay:0.552s" x="802.6" y="73.9" width="5.2" height="34.1" rx="1" fill="#7ee787" opacity="0.70"/>
+<rect class="bar" style="animation-delay:0.564s" x="809.8" y="101.3" width="5.2" height="6.7" rx="1" fill="#7ee787" opacity="0.50"/>
+<rect class="bar" style="animation-delay:0.576s" x="817.1" y="65.7" width="5.2" height="42.3" rx="1" fill="#7ee787" opacity="0.76"/>
+<rect class="bar" style="animation-delay:0.588s" x="824.3" y="79.3" width="5.2" height="28.7" rx="1" fill="#7ee787" opacity="0.66"/>
+<rect class="bar" style="animation-delay:0.600s" x="831.5" y="34.0" width="5.2" height="74.0" rx="1" fill="#7ee787" opacity="1.00"/>
+<rect class="bar" style="animation-delay:0.612s" x="838.8" y="104.2" width="5.2" height="3.8" rx="1" fill="#7ee787" opacity="0.48"/>
+<text x="470" y="126" class="s">weekly activity · last 52 weeks</text>
+<clipPath id="lb"><rect x="34" y="152" width="812" height="6" rx="3"/></clipPath><g clip-path="url(#lb)">
+<rect x="34.0" y="152" width="576.7" height="6" fill="#7355dd" opacity=".85"/>
+<rect x="610.7" y="152" width="136.4" height="6" fill="#3178c6" opacity=".85"/>
+<rect x="747.1" y="152" width="50.9" height="6" fill="#00B4AB" opacity=".85"/>
+<rect x="798.0" y="152" width="41.6" height="6" fill="#355570" opacity=".85"/>
+<rect x="839.6" y="152" width="6.4" height="6" fill="#3572A5" opacity=".85"/>
+</g>
+<circle cx="38" cy="172" r="4" fill="#7355dd" opacity=".85"/><text x="48" y="176" class="s">C# 70%</text>
+<circle cx="116" cy="172" r="4" fill="#3178c6" opacity=".85"/><text x="126" y="176" class="s">TypeScript 17%</text>
+<circle cx="250" cy="172" r="4" fill="#00B4AB" opacity=".85"/><text x="260" y="176" class="s">Dart 6%</text>
+<circle cx="335" cy="172" r="4" fill="#355570" opacity=".85"/><text x="345" y="176" class="s">GDScript 5%</text>
+<circle cx="448" cy="172" r="4" fill="#3572A5" opacity=".85"/><text x="458" y="176" class="s">Python 1%</text>
+</svg>
