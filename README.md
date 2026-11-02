@@ -16,7 +16,7 @@ An open-source, self-hosted context layer that turns repos, trackers, docs and c
 A persistent simulator of societies, populations and individuals. Families, economy, births, deaths and skills are all resolved by a deterministic engine: same seed plus same ticks gives the same world. An LLM only comes in later, to interpret and talk, never as the source of truth. The first milestone is 100 NPCs in a medieval village for 100 years, with no LLM at all. .NET 10, C#, SQLite.
 
 **ShapeUp**: a social network for people who train.
-It connects people to personal trainers and nutritionists, with workout and nutrition tracking and a marketplace for professional services. I'm now building v2, with a web app and a mobile app.
+It connects people to personal trainers and nutritionists, with workout and nutrition tracking and a marketplace for professional services. I'm now building v2, with a web app and a mobile app. (private repo)
 
 ### Day to day
 
