@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="3885 contributions in the last year, 50 public repositories, 42 stars.">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="3888 contributions in the last year, 50 public repositories, 42 stars.">
 <style>
   text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; }
   .p { fill: #d2a8ff; } .k { fill: #7d8590; } .v { fill: #e6edf3; } .s { fill: #7d8590; font-size: 11px; }
@@ -8,10 +8,10 @@
 </style>
 <rect x="0.5" y="0.5" width="879" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="34" y="40" class="p">$ living-world stats --npc alan</text>
-<text x="34" y="66" class="k">contributions</text><text x="160" y="66" class="v">3,885</text>
+<text x="34" y="66" class="k">contributions</text><text x="160" y="66" class="v">3,888</text>
 <text x="215" y="66" class="s">last 12 months</text>
-<text x="34" y="86" class="k">commits</text><text x="160" y="86" class="v">3,571</text>
-<text x="34" y="106" class="k">pull requests</text><text x="160" y="106" class="v">169</text>
+<text x="34" y="86" class="k">commits</text><text x="160" y="86" class="v">3,573</text>
+<text x="34" y="106" class="k">pull requests</text><text x="160" y="106" class="v">170</text>
 <text x="34" y="126" class="k">public repos</text><text x="160" y="126" class="v">50</text>
 <text x="188" y="126" class="s">42 stars</text>
 <rect class="bar" style="animation-delay:0.000s" x="470.0" y="106.0" width="5.2" height="2.0" rx="1" fill="#7ee787" opacity="0.45"/>
@@ -65,18 +65,18 @@
 <rect class="bar" style="animation-delay:0.576s" x="817.1" y="82.9" width="5.2" height="25.1" rx="1" fill="#7ee787" opacity="0.64"/>
 <rect class="bar" style="animation-delay:0.588s" x="824.3" y="40.1" width="5.2" height="67.9" rx="1" fill="#7ee787" opacity="0.95"/>
 <rect class="bar" style="animation-delay:0.600s" x="831.5" y="34.0" width="5.2" height="74.0" rx="1" fill="#7ee787" opacity="1.00"/>
-<rect class="bar" style="animation-delay:0.612s" x="838.8" y="79.6" width="5.2" height="28.4" rx="1" fill="#7ee787" opacity="0.66"/>
+<rect class="bar" style="animation-delay:0.612s" x="838.8" y="79.3" width="5.2" height="28.7" rx="1" fill="#7ee787" opacity="0.66"/>
 <text x="470" y="126" class="s">weekly activity · last 52 weeks</text>
 <clipPath id="lb"><rect x="34" y="152" width="812" height="6" rx="3"/></clipPath><g clip-path="url(#lb)">
-<rect x="34.0" y="152" width="566.3" height="6" fill="#7355dd" opacity=".85"/>
-<rect x="600.3" y="152" width="136.2" height="6" fill="#3178c6" opacity=".85"/>
-<rect x="736.5" y="152" width="48.2" height="6" fill="#00B4AB" opacity=".85"/>
-<rect x="784.6" y="152" width="39.5" height="6" fill="#355570" opacity=".85"/>
-<rect x="824.1" y="152" width="21.9" height="6" fill="#F05138" opacity=".85"/>
+<rect x="34.0" y="152" width="559.6" height="6" fill="#7355dd" opacity=".85"/>
+<rect x="593.6" y="152" width="134.6" height="6" fill="#3178c6" opacity=".85"/>
+<rect x="728.1" y="152" width="47.6" height="6" fill="#00B4AB" opacity=".85"/>
+<rect x="775.7" y="152" width="39.0" height="6" fill="#355570" opacity=".85"/>
+<rect x="814.7" y="152" width="31.3" height="6" fill="#dea584" opacity=".85"/>
 </g>
-<circle cx="38" cy="172" r="4" fill="#7355dd" opacity=".85"/><text x="48" y="176" class="s">C# 67%</text>
+<circle cx="38" cy="172" r="4" fill="#7355dd" opacity=".85"/><text x="48" y="176" class="s">C# 65%</text>
 <circle cx="116" cy="172" r="4" fill="#3178c6" opacity=".85"/><text x="126" y="176" class="s">TypeScript 16%</text>
 <circle cx="250" cy="172" r="4" fill="#00B4AB" opacity=".85"/><text x="260" y="176" class="s">Dart 6%</text>
 <circle cx="335" cy="172" r="4" fill="#355570" opacity=".85"/><text x="345" y="176" class="s">GDScript 5%</text>
-<circle cx="448" cy="172" r="4" fill="#F05138" opacity=".85"/><text x="458" y="176" class="s">Swift 3%</text>
+<circle cx="448" cy="172" r="4" fill="#dea584" opacity=".85"/><text x="458" y="176" class="s">Rust 4%</text>
 </svg>
